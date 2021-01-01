@@ -1,0 +1,22 @@
+{
+  "name": "warmup",
+  "version": "1.0.0",
+  "description": "Handy warmup page for your cold hands",
+  "main": "warmer.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joope/warmup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joope/warmup/issues"
+  },
+  "homepage": "https://github.com/joope/warmup#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
